@@ -1,0 +1,1 @@
+This is for issues and features related to integrating with the API, or general website issues. This isn't the place to report bank connection issues. For bank connection issues click "Report problem" in the web interface.
